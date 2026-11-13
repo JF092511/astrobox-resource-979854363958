@@ -1,0 +1,28 @@
+{
+  "item": {
+    "id": "979854363958",
+    "restype": "watchface",
+    "name": "NALONG Halo",
+    "description": "这是一个甲壳虫表盘，其肚子会有一个小炮弹在转动，可以显示时间、心率和电量",
+    "preview": [
+      "media/preview_02_卧.png"
+    ],
+    "icon": "media/icon_1x1.png",
+    "cover": "media/cover_3x2.png",
+    "author": [
+      {
+        "name": "JF23112580",
+        "bindABAccount": true
+      }
+    ]
+  },
+  "links": [],
+  "downloads": {
+    "xmb10p": {
+      "version": "1",
+      "file_name": "downloads/NaiLong_10Pro_环.bin",
+      "versionCode": 1
+    }
+  },
+  "ext": {}
+}
